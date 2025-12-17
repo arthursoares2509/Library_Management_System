@@ -1,2 +1,1 @@
-# Library
-Library_Management_System_Web
+### Library Management System (LMS) is a complete handmade system that includes desktop and web aplications with a complete database include inside! That's the web application.
